@@ -108,7 +108,7 @@ https://github.com/Khushi-Hebballi-18/EduPredict/projects/1
 
 ---
 
-### 🗄️ Database (Optional)
+### 🗄️ Database
 - Lightweight approach using **CSV dataset + model storage**  
 - Can be extended to:
   - MongoDB  
@@ -126,6 +126,4 @@ https://github.com/Khushi-Hebballi-18/EduPredict/projects/1
 
 ---
 
-### ☁️ Deployment (Optional)
-- **Vercel / Netlify** – React frontend hosting  
-- **Render / Railway** – FastAPI backend hosting  
+
